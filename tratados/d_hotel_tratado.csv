@@ -1,7 +1,0 @@
-hotel_id,nome,cidade,uf,categoria_estrelas,possui_spa_flag
-1,Nara Copacabana,Rio de Janeiro,RJ,4,1
-2,Nara Paulista,São Paulo,SP,4,0
-3,Nara Savassi,Belo Horizonte,MG,3,0
-4,Nara Barra,Salvador,BA,4,1
-5,Nara Batel,Curitiba,PR,3,0
-6,Nara Meireles,Fortaleza,CE,5,1

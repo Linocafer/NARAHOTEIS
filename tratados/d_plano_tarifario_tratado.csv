@@ -1,6 +1,0 @@
-rate_plan_id,nome_plano,reembolsavel_flag,cafe_incluso_flag,politica_cancelamento
-1,Flexível (Reembolsável),1,1,Cancelamento grátis até 48h antes
-2,Não Reembolsável,0,0,Sem reembolso
-3,Corporativo Flex,1,1,Cancelamento grátis até 24h antes
-4,Pacote Fim de Semana,0,1,Sem reembolso
-5,Promo Antecipada,0,0,Sem reembolso
