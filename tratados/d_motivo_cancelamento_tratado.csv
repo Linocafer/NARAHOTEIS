@@ -1,0 +1,6 @@
+motivo_id,categoria,descricao
+1,Preço,Encontrou tarifa melhor
+2,Mudança de planos,Alteração de agenda
+3,Problema de pagamento,Cartão recusado
+4,Transporte,Cancelamento de voo/ônibus
+5,Outros,Motivo não informado

@@ -1,0 +1,5 @@
+agencia_id,nome,tipo,comissao_pct
+1,Booking,OTA,0.15
+2,Decolar,OTA,0.17
+3,CVC,Agência,0.12
+4,FlyTour,Agência,0.1
